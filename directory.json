@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Trinidad Community Studio",
+    "city": "Trinidad",
+    "state": "CO",
+    "category": "Arts",
+    "website": "https://example.org/studio",
+    "sources": [
+      "regional_feed.csv"
+    ]
+  },
+  {
+    "name": "Walsenburg Makerspace",
+    "city": "Walsenburg",
+    "state": "CO",
+    "category": "Community",
+    "website": "https://example.org/makerspace",
+    "sources": [
+      "regional_feed.csv"
+    ]
+  },
+  {
+    "name": "High Plains Library",
+    "city": "Raton",
+    "state": "NM",
+    "category": "Community",
+    "website": "https://example.org/library",
+    "sources": [
+      "new_mexico.csv"
+    ]
+  },
+  {
+    "name": "Old Pass Gallery",
+    "city": "Raton",
+    "state": "NM",
+    "category": "Arts",
+    "website": "https://example.org/old-pass",
+    "sources": [
+      "new_mexico.csv"
+    ]
+  },
+  {
+    "name": "Sage Coffee",
+    "city": "Raton",
+    "state": "NM",
+    "category": "Cafe",
+    "website": "https://example.org/sage",
+    "sources": [
+      "new_mexico.csv",
+      "regional_feed.csv"
+    ]
+  }
+]
